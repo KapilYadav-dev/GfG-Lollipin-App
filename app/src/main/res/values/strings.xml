@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GFG Lollipin App</string>
+    <string name="str_gfg">GFG</string>
+    <string name="str_enable_pincode">Enable Pincode</string>
+    <string name="str_set_pin">Change Pin</string>
+    <string name="str_disable">Disable</string>
+    <string name="str_locked">Go to locked activity</string>
+</resources>
